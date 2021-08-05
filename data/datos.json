@@ -1,0 +1,39 @@
+[
+    {
+        "img":"assets/img/CafeAbout.jpg",
+        "plato":"Chocolate y bizcochos",
+        "Ingre":"Chocolate, leche, bizcochos, queso de hoja, manjar",
+        "precio":"$3.00"
+    },{
+        "img":"assets/img/CafeAbout.jpg",
+        "plato":"Tinto y bizcochos",
+        "Ingre":"Tinto, bizcochos, queso de hoja, manjar",
+        "precio":"$2.00"
+    },{
+        "img":"assets/img/menu/lobster-bisque.jpg",
+        "plato":"Churrasco",
+        "Ingre":"papas fritas, carne, huevo frito, salchicha",
+        "precio":"$3.50"
+    },
+    {
+        "img":"assets/img/menu/continental.jpg",
+        "plato":"Desayunos Continentales",
+        "Ingre":"Chocolate o café, bizcochos, huevos",
+        "precio":"$2.00"
+    },{
+        "img":"assets/img/menu/DesayunoTio.jpg",
+        "plato":"Desayuno Tio Cajas",
+        "Ingre":"Chocolate o café, bizcochos, huevos, jugo, seco de pollo",
+        "precio":"$2.00"
+    },{
+        "img":"assets/img/menu/Carne-apanada-1.jpg",
+        "plato":"Carne Apanada",
+        "Ingre":"papas fritas, carne apanada, arroz, salsas",
+        "precio":"$3.50"
+    },{
+        "img":"assets/img/menu/Bizcochos.jpg",
+        "plato":"Bizcochos + queso de hoja",
+        "Ingre":"funda de bizcochos, 9 quesos de hoja",
+        "precio":"$2.50"
+    }
+]
